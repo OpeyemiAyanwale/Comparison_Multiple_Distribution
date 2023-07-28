@@ -1,5 +1,5 @@
 
-# COURSE: Introductory to Case Study Summer 2023
+
 # PROJECT TITLE: Comparison of Multiple Distributions (Project 2)
 
 getwd()
