@@ -1,12 +1,9 @@
 
 # COURSE: Introductory to Case Study Summer 2023
 # PROJECT TITLE: Comparison of Multiple Distributions (Project 2)
-# InSTRUCTOR: Prof. Dr. Katja Ickstadt, M.Sc. Zeyu Ding, M.Sc. Yassine Talleb
-# GROUP MEMBERS: Opeyemi Ayanwale, Azeezat Mosunmade Mustapha, 
-#                Divya Prima Crasta,  Raj Anilbhai Pawar
-# PROJECT GROUP: Group 7
 
-setwd('C:/Users/opeye/Desktop/ICS_SS23/Project 2')
+
+
 getwd()
 
 
